@@ -1,3 +1,4 @@
+//SUM OF TWO NUMBERS
 import java.util.Scanner;
 public class TwoNumbers 
 {
